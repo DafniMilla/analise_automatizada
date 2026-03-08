@@ -1,3 +1,5 @@
-*.csv
-dados/
 
+
+dados/
+notebooks/
+resultados/
