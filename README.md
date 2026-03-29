@@ -4,7 +4,7 @@ Projeto desenvolvido para realizar a análise automatizada dos microdados do SIS
 
 ## Visualização dos Dados
 
-Acesse os gráficos interativos do projeto pelo link abaixo:
+Acesse os gráficos do projeto pelo link abaixo:
 
 🔗 https://qktnda49ydzdneeb8foqnc.streamlit.app/
 
